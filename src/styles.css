@@ -1,0 +1,29 @@
+.textEditBox {
+    -fx-border-color: lightseagreen;
+    -fx-border-width: 1;
+    -fx-border-style: solid;
+    -fx-pref-width: 200;
+    -fx-pref-height: 100;
+    -fx-alignment: top-center;
+    -fx-text-alignment: center;
+    -fx-padding: 5, 10, 10, 10;
+}
+
+.sizeButton {
+    -fx-pref-width: 70;
+    -fx-max-width: 70;
+}
+
+.editLabel {
+    -fx-font-size: 30;
+}
+
+.editTitleLabel {
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+}
+
+.editHBox {
+    -fx-spacing: 20;
+    -fx-alignment: center;
+}
